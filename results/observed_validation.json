@@ -1,0 +1,10 @@
+{
+  "fits": 792,
+  "failed_importance_checks": 0,
+  "min_importance_ess": 20067.157399401494,
+  "max_pareto_k": 0.4565476231063812,
+  "max_mcse_over_sd": 0.0180790068709085,
+  "map_optimizer_warnings": 0,
+  "observed_mcmc_checks_pass": true,
+  "full_fit_checks_pass": true
+}

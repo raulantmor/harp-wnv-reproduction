@@ -1,0 +1,12 @@
+region,primary,secondary,paper_primary,paper_secondary,primary_match,secondary_match
+D17,tmean_03,ppt_07,tmean_03,soil_06,True,False
+D14,vpdmax_07,ppt_07,tmean_07,ppt_07,False,True
+D09,tmean_05,pdsi_03,tmean_05,pdsi_03,True,True
+D10,tdmean_06,pdsi_10,tdmean_06,pdsi_10,True,True
+D11,ppt_03,pdsi_11,soil_10,ppt_03,False,False
+D06,pdsi_07,tmean_05,soil_03,tmean_05,False,True
+D08,pdsi_11,tdmean_06,pdsi_11,tdmean_06,True,True
+D05,tmean_01,ppt_12,soil_03,tmean_01,False,False
+D03,vpdmax_05,ppt_10,soil_01,vpdmax_05,False,False
+D02,tmean_05,ppt_07,tmean_05,ppt_07,True,True
+D01,tdmean_10,ppt_12,soil_12,tmean_05,False,False

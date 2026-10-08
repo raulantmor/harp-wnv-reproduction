@@ -1,0 +1,65 @@
+[
+  {
+    "file": "data/raw/cdc_county.csv",
+    "url": "https://www.cdc.gov/wcms/vizdata/live/ncezid_dvbd/WNV/wnv_hist_hum_nonhum_yearly.csv",
+    "accessed_utc": "2026-10-08T22:28:24.847841+00:00",
+    "bytes": 1235899,
+    "sha256": "dde802203a7cb3460a4c879dab50812df05a8f939844b6e8cef8095a2b4691be"
+  },
+  {
+    "file": "data/raw/cdc-ct-config.json",
+    "url": "https://www.cdc.gov/west-nile-virus/data-maps/ct-2022.json",
+    "accessed_utc": "2026-10-08T22:30:29.760903+00:00",
+    "bytes": 3560,
+    "sha256": "41556fc247c12ef48e87d83b9f764598dd4d2b5f545daf326b9aa007dd4abdf8"
+  },
+  {
+    "file": "data/raw/county_population_centers.txt",
+    "url": "https://www2.census.gov/geo/docs/reference/cenpop2020/county/CenPop2020_Mean_CO.txt",
+    "accessed_utc": "2026-10-08T22:28:37.535847+00:00",
+    "bytes": 171276,
+    "sha256": "4f754a3bda9714e5820d73bfac44ef1dab2b8c371f6c136305474cda7a752014"
+  },
+  {
+    "file": "data/raw/counties.zip",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2020/shp/cb_2020_us_county_500k.zip",
+    "accessed_utc": "2026-10-08T22:28:37.756848+00:00",
+    "bytes": 12587934,
+    "sha256": "1a45c87a5a0c322514c9d5c9ebcba5eb9df313bd38962f6db56107ba0ccacc6f"
+  },
+  {
+    "file": "data/raw/neon.zip",
+    "url": "https://www.neonscience.org/sites/default/files/NEONDomains_2024.zip",
+    "accessed_utc": "2026-10-08T22:29:27.969872+00:00",
+    "bytes": 364259,
+    "sha256": "fd7990d453f83803d89feb14f4c3f3db4a767134b235651b25140184b4878408"
+  },
+  {
+    "file": "data/raw/paper.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12856058/",
+    "accessed_utc": "2026-10-08T22:27:04.128791+00:00",
+    "bytes": 255083,
+    "sha256": "e50e761516c3e5d3c87c2180f112f9e21020c292fcae59e74917221412a11b34"
+  },
+  {
+    "file": "data/raw/supplement-package.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12856058/supplementaryFiles",
+    "accessed_utc": "2026-10-08T22:29:22.529870+00:00",
+    "bytes": 1466451,
+    "sha256": "00f03d1f00f6a02e9b287bd0faf5ea1c8ea92021706416f89cf0b73ed8b0fae9"
+  },
+  {
+    "file": "data/raw/cdc.html",
+    "url": "https://www.cdc.gov/west-nile-virus/data-maps/historic-data.html",
+    "accessed_utc": "2026-10-08T22:27:29.806807+00:00",
+    "bytes": 57585,
+    "sha256": "4a97431d0ed7a8f77c3237a65b6fd6df2512df73e4497498b6728512d2f84606"
+  },
+  {
+    "file": "data/raw/rstanarm-priors.html",
+    "url": "https://mc-stan.org/rstanarm/articles/priors.html",
+    "accessed_utc": "2026-10-08T22:30:30.112903+00:00",
+    "bytes": 41349,
+    "sha256": "53f38de324e1a49174ad828e32bd04f182647db8d68f259ef1791764b46c396d"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "rule": "at least 1000 cases in 2005-2022",
+  "qualifying": [
+    "D01",
+    "D03",
+    "D05",
+    "D06",
+    "D08",
+    "D09",
+    "D10",
+    "D11",
+    "D14",
+    "D17"
+  ],
+  "published": [
+    "D01",
+    "D02",
+    "D03",
+    "D05",
+    "D06",
+    "D08",
+    "D09",
+    "D10",
+    "D11",
+    "D14",
+    "D17"
+  ],
+  "difference": [
+    "D02"
+  ],
+  "decision": "Use the 11 explicitly named published regions for comparability"
+}

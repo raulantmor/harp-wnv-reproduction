@@ -1,0 +1,70 @@
+{
+  "tmean": {
+    "sample_file": "data/raw/prism/tmean_200411.nc",
+    "global": {
+      "author": "NC State Climate Office",
+      "source": "data.prism.oregonstate.edu",
+      "source_file": "prism_tmean_us_25m_200411.tif",
+      "creation_date": "2025-09-12"
+    },
+    "variable": {
+      "_FillValue": "-9999.0",
+      "least_significant_digit": "3",
+      "coordinates": "latitude longitude",
+      "units": "degC",
+      "long_name": "Avg Temp",
+      "max": "-8.689"
+    }
+  },
+  "tdmean": {
+    "sample_file": "data/raw/prism/tdmean_200410.nc",
+    "global": {
+      "author": "NC State Climate Office",
+      "source": "data.prism.oregonstate.edu",
+      "source_file": "prism_tdmean_us_25m_200410.tif",
+      "creation_date": "2025-09-12"
+    },
+    "variable": {
+      "_FillValue": "-9999.0",
+      "least_significant_digit": "3",
+      "coordinates": "latitude longitude",
+      "units": "",
+      "long_name": "UNKNOWN",
+      "max": "-12.1744995"
+    }
+  },
+  "ppt": {
+    "sample_file": "data/raw/prism/ppt_200410.nc",
+    "global": {
+      "author": "NC State Climate Office",
+      "source": "data.prism.oregonstate.edu",
+      "source_file": "prism_ppt_us_25m_200410.tif",
+      "creation_date": "2025-09-12"
+    },
+    "variable": {
+      "_FillValue": "-9999.0",
+      "least_significant_digit": "3",
+      "coordinates": "latitude longitude",
+      "units": "mm",
+      "long_name": "Precipitation",
+      "max": "0.0"
+    }
+  },
+  "vpdmax": {
+    "sample_file": "data/raw/prism/vpdmax_200410.nc",
+    "global": {
+      "author": "NC State Climate Office",
+      "source": "data.prism.oregonstate.edu",
+      "source_file": "prism_vpdmax_us_25m_200410.tif",
+      "creation_date": "2025-09-12"
+    },
+    "variable": {
+      "_FillValue": "-9999.0",
+      "least_significant_digit": "3",
+      "coordinates": "latitude longitude",
+      "units": "",
+      "long_name": "UNKNOWN",
+      "max": "0.01"
+    }
+  }
+}

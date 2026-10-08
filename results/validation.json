@@ -1,0 +1,52 @@
+{
+  "synthetic_importance": {
+    "importance_ess": 27517.309706044463,
+    "pareto_k": -0.37899709304158763,
+    "proposals": 32768,
+    "max_mcse_over_sd": 0.007720873451113144,
+    "map_optimizer_success": true,
+    "numerical_pass": true
+  },
+  "mcmc": {
+    "rhat_max": 1.0024847103608348,
+    "ess_bulk_min": 2679.711225772266,
+    "acceptance_rate": [
+      0.298,
+      0.2958,
+      0.301,
+      0.3004
+    ],
+    "max_mean_difference_in_posterior_sd": 0.027396211325505772,
+    "pass": true
+  },
+  "posterior_predictive": {
+    "observed_mean": 25.608333333333334,
+    "observed_variance": 534.2465972222221,
+    "observed_max": 172,
+    "replicate_mean_interval": [
+      23.125,
+      25.8375,
+      29.116875
+    ],
+    "replicate_variance_interval": [
+      404.38116536458335,
+      663.3966232638888,
+      1263.4635907118059
+    ],
+    "replicate_max_interval": [
+      115.97500000000001,
+      191.0,
+      385.0250000000001
+    ]
+  },
+  "recovery_24_simulations": [
+    0.9166666666666666,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "benchmark_permutation_map_delta": 8.881784197001252e-16,
+  "wis_identity_error": 5.551115123125783e-17,
+  "perfect_forecast_zero": true,
+  "pass": true
+}

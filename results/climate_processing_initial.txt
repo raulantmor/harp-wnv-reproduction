@@ -1,0 +1,33 @@
+Reduced 0 / 729
+Reduced 50 / 729
+Reduced 100 / 729
+Reduced 150 / 729
+Reduced 200 / 729
+Reduced 250 / 729
+Reduced 300 / 729
+Reduced 350 / 729
+Reduced 400 / 729
+Reduced 450 / 729
+Reduced 500 / 729
+Reduced 550 / 729
+Reduced 600 / 729
+Reduced 650 / 729
+Reduced 700 / 729
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
+/home/morenor/harp-wnv-reproduction/src/prepare.py:112: RuntimeWarning: Mean of empty slice
+  if sel.any(): fields.append((y,m,np.nanmean(a[sel],axis=0)))
